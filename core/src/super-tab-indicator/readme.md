@@ -9,6 +9,7 @@
 
 | Property          | Attribute          | Description                                                    | Type                | Default |
 | ----------------- | ------------------ | -------------------------------------------------------------- | ------------------- | ------- |
+| `showPointer`     | `show-pointer`     |                                                                | `boolean`           | `false` |
 | `toolbarPosition` | `toolbar-position` | Toolbar position This determines the position of the indicator | `"bottom" \| "top"` | `'top'` |
 
 

@@ -14,7 +14,7 @@
   "author": "Zyra Media Inc. <info@zyra.ca>",
   "license": "MIT",
   "dependencies": {
-    "@ionic-super-tabs/core": "^6.4.0"
+    "@ionic-super-tabs/core": "file://../ionic-super-tabs-core-6.4.0.tgz"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.803.17",
